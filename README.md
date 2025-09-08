@@ -23,10 +23,9 @@ Nosso objetivo é desenvolver uma **plataforma digital voltada para agricultores
 
 ## 🛠️ Tecnologias que estamos explorando  
 - **Frontend:** React, Next.js, Bootstrap, CSS3, HTML5  
-- **Backend:** Laravel, Node.js, PHP, Spring  
-- **Mobile:** Flutter, React Native  
-- **Banco de Dados:** MySQL, PostgreSQL, MariaDB  
-- **Ferramentas & Outros:** Git, Figma, Heroku, Linux, Arduino, Azure  
+- **Backend:** Django   
+- **Banco de Dados:** MySQL
+- **Ferramentas & Outros:** Git e Github, Figma, Azure  
 
 ---
 
