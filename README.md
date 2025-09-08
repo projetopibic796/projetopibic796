@@ -7,7 +7,7 @@ Nosso objetivo é desenvolver uma **plataforma digital voltada para agricultores
 
 ---
 
-## 🚀 Sobre o Projeto  ## 🚀 Sobre o Projeto  
+## 🚀 Sobre o Projeto   
 🛠️ Somos um grupo de estudantes universitários apaixonados por tecnologia e inovação.  
 🌱 Atualmente estamos pesquisando e desenvolvendo soluções com foco em acessibilidade, usabilidade e impacto real na vida dos agricultores.  
 💡 Nossa meta é aproximar a agricultura familiar da tecnologia, facilitando o acesso a mercados, informações e gestão de produção.  
