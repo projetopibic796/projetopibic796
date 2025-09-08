@@ -21,10 +21,10 @@ Nosso objetivo é desenvolver uma **plataforma digital voltada para agricultores
 ---
 
 ## 🛠️ Tecnologias que estamos explorando  
-- **Frontend:** React, twind, Next.js, Bootstrap, CSS3, HTML5  
-- **Backend:** Django   
-- **Banco de Dados:** MySQL
-- **Ferramentas & Outros:** Git e Github, Figma, Azure  
+- **Frontend:** desenvolvido em React, com uso de Tailwind, Next.js, Bootstrap, CSS3 e HTML5.  
+- **Backend:** estruturado em Django para criação de APIs RESTful.  
+- **Banco de Dados:** MySQL para gerenciamento das informações.  
+- **Ferramentas & Outras:** GitHub (versionamento), Figma (design), Azure (deploy), Notion (documentação e gestão).  
 
 ---
 
