@@ -15,14 +15,14 @@ Nosso objetivo é desenvolver uma **plataforma digital voltada para agricultores
 ---
 
 ## 💬 Sobre Nós  
-- 👨‍🎓 Bolsistas PIBIC da **UFRA**.  
+- 👨‍🎓 Alunos PIBIC e PIVIC da **UFRA**.  
 - 💻 Interessados em **desenvolvimento web, mobile e integração de tecnologias**.  
 - 🤝 Acreditamos que a tecnologia pode transformar vidas quando aplicada em contextos sociais reais.  
 
 ---
 
 ## 🛠️ Tecnologias que estamos explorando  
-- **Frontend:** React, Next.js, Bootstrap, CSS3, HTML5  
+- **Frontend:** React, twind, Next.js, Bootstrap, CSS3, HTML5  
 - **Backend:** Django   
 - **Banco de Dados:** MySQL
 - **Ferramentas & Outros:** Git e Github, Figma, Azure  
