@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩‍💻 Projeto PIBIC – Plataforma para Agricultores Regionais  
 
-<!--
-**projetopibic796/projetopibic796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao perfil **projetopibic796**!  
+Este usuário foi criado especialmente para abrigar o repositório e a documentação do nosso projeto de Iniciação Científica (PIBIC) desenvolvido na **Universidade Federal Rural da Amazônia (UFRA)**.  
 
-Here are some ideas to get you started:
+Nosso objetivo é desenvolver uma **plataforma digital voltada para agricultores regionais**, unindo **tecnologia, inovação e impacto social**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre o Projeto  
+🔭 Somos um grupo de estudantes universitários apaixonados por tecnologia e inovação.  
+🌱 Atualmente estamos pesquisando e desenvolvendo soluções com foco em **acessibilidade, usabilidade e impacto real na vida dos agricultores**.  
+💡 Nossa meta é aproximar a agricultura familiar da tecnologia, facilitando o acesso a mercados, informações e gestão de produção.  
+
+---
+
+## 💬 Sobre Nós  
+- 👨‍🎓 Bolsistas PIBIC da **UFRA**.  
+- 💻 Interessados em **desenvolvimento web, mobile e integração de tecnologias**.  
+- 🤝 Acreditamos que a tecnologia pode transformar vidas quando aplicada em contextos sociais reais.  
+
+---
+
+## 🛠️ Tecnologias que estamos explorando  
+- **Frontend:** React, Next.js, Bootstrap, CSS3, HTML5  
+- **Backend:** Laravel, Node.js, PHP, Spring  
+- **Mobile:** Flutter, React Native  
+- **Banco de Dados:** MySQL, PostgreSQL, MariaDB  
+- **Ferramentas & Outros:** Git, Figma, Heroku, Linux, Arduino, Azure  
+
+---
+
+## 🌐 Conecte-se Conosco  
+> Em breve deixaremos aqui links oficiais de contato e redes sociais do projeto. 
