@@ -1,4 +1,4 @@
-# 👩‍💻 Projeto PIBIC – Plataforma para Agricultores Regionais  
+# 👩‍💻 Projeto de Iniciação Cientifica – Plataforma para Agricultores Regionais  
 
 Bem-vindo ao perfil **projetopibic796**!  
 Este usuário foi criado especialmente para abrigar o repositório e a documentação do nosso projeto de Iniciação Científica (PIBIC & PIVIC) desenvolvido na **Universidade Federal Rural da Amazônia (UFRA)**.  
